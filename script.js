@@ -24,16 +24,19 @@
 
 var today = moment().format("dddd, MMMM Do YYYY, h:mm A ");
 
+// current day
+
+
 var now = moment().format("H A");
 
-// current day
-// formated dayjs to show date and time
+
+// formated dayjs to show date and time AM/PM
 
 
 $("#currentDay").text(today);
 
-
 /* planWorkday entries for each hour of the workday */
+
 var planWorkday = [
     { time: "9 AM", 
         event: "" },
@@ -55,6 +58,8 @@ var planWorkday = [
         event: "" },
   ];
 
+
+  
 /* Local Storage check */
 var workEvents = JSON.parse(localStorage.getItem("workDay"));
 if (workEvents) {
