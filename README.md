@@ -19,11 +19,11 @@ Along with being tested on understanding of creating a webapp I am adding someth
  * Structure code schemantics in a way so you or anyone else can continue working on this project in the future 
 
 ## Visit the Website!
-
+https://yoboyyash.github.io/Yash-Work-Day-Scheduler/
 
 
 ## Visit the Repository!
-
+https://github.com/yoboyyash/Yash-Work-Day-Scheduler 
 
 
 ## Found a bug?
