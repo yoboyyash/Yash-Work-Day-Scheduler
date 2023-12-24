@@ -3,7 +3,7 @@
 
 ## Saving your day to day 9 am to 5 pm !
 
-![Alt text](/Yash-Work-Day-Scheduler/Assets/Screenshot%202023-12-24%20143344.png/)
+![Alt text](./Assets/Screenshot%202023-12-24%20143344.png)
 
 HOW TO USE: Seeing the current date and time you can start your day by entering things to do that you can glance at as the day progresses. Click on the time block to enter in to-do's and tasks. As the day goes on these blocks will turn from green to red to indicate they have past in time. This will help streamline things to do faster for the user. 
 
