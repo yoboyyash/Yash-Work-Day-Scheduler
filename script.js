@@ -22,11 +22,13 @@
   // TODO: Add code to display the current date in the header of the page.
 
 
-var today = moment().format("dddd, MMMM Do YYYY ");
+var today = moment().format("dddd, MMMM Do YYYY, h:mm A ");
 
 var now = moment().format("H A");
 
 // current day
+// formated dayjs to show date and time
+
 
 $("#currentDay").text(today);
 

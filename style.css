@@ -12,12 +12,25 @@ textarea {
   padding: 10px;
 }
 
-.jumbotron {
+.toptitle {
   text-align: center;
   background-color: transparent;
-  color: rgb(105, 105, 105);
+  color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+}
+
+.container {
+  padding-top: 30px;
+}
+
+.time {
+  margin: 0 auto;
+  width: 50%;
+  padding: 10px ;
+  color: black;
+  font-size: 20px;
+  margin-top: 20px;
 }
 
 .description {
@@ -66,22 +79,3 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-
-
-
-
-
-
-
-
-
-.time {
-  background-color:  #ff6961;
-  border-radius: 30px;
-  margin: 0 auto;
-  width: 50%;
-  padding: 10px ;
-  color: white;
-  font-size: 20px;
-  margin-top: 20px;
-}
